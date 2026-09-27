@@ -42,7 +42,6 @@ We comprehensively evaluate both:
 │
 ├── ADVERSARIAL_ATTACK/        # Adversarial Attacks & Robustness Evaluation (ART)
 │   ├── art_qcnn.py               # Evasion attacks on QCNN (FGSM, PGD, HopSkipJump, ZOO)
-│   ├── art_for_qcnn.py           # ART wrapper for quantum neural network classifiers
 │   ├── fgsm-parallel-loky.py     # Fast Gradient Sign Method on QSVC (Support Vector filtering & multi-core)
 │   ├── run-art-qsvc-zoo-sv.py    # Zeroth-Order Optimization (ZOO) black-box attack on QSVC
 │   ├── hsj-new.py                # HopSkipJump decision-based black-box attack on QSVC
