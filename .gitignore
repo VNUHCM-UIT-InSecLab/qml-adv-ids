@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+.pytest_cache/
+*.pkl
+*.joblib
+*.dill
+*.npy
+*.npz
+
+# Logs and runs
+*.log
+runs/
+checkpoints/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
