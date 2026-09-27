@@ -5,6 +5,7 @@ Official implementation and experimental code for the paper:
 > *IEEE ICPADS 2026*  
 > Information Security Laboratory (InSecLab), VNU-HCM University of Information Technology.
 
+The details of the paper: Quach Tuan Kiet, Le Sy Liem, Le Tran Gia Bao, Nghi Hoang Khoa, Dang Van Huynh, Van-Hau Pham, Phan The Duy, "Adversarial Robustness of Quantum Learning-based Intrusion Detection Systems in IoT Networks", The 32nd IEEE International Conference on Parallel and Distributed Systems (ICPADS 2026), Tokyo, Japan.
 ---
 
 ## 📌 Overview
